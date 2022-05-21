@@ -1,4 +1,4 @@
-### Olá! Sou o Diego Carvalho...sou estudante de Análise e desenvolvimento de sistemas ⚡
+### Olá! Sou o Diego Carvalho...sou estudante de Análise e Desenvolvimento de Sistemas ⚡
 
 ##
 
