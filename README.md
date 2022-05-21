@@ -2,6 +2,9 @@
 
 ##
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](www.linkedin.com/in/diego-gomes-de-carvalho-744777231)
+
  <div align="center">
  <a href="https://github.com/DiegoGomesCarvalho">
   <img height="156em" src="https://github-readme-stats.vercel.app/api?username=DiegoGomesCarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,7 +19,5 @@
   
   ##
 
- https://img.shields.io/badge/www.linkedin.com/in/diego-gomes-de-carvalho-744777231
- https://img.shields.io/badge/www.linkedin.com/in/diego-gomes-de-carvalho-744777231LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+ 
 
