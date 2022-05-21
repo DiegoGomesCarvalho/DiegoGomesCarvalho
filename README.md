@@ -17,4 +17,6 @@
   ##
 
  https://img.shields.io/badge/www.linkedin.com/in/diego-gomes-de-carvalho-744777231
+ https://img.shields.io/badge/www.linkedin.com/in/diego-gomes-de-carvalho-744777231LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
