@@ -13,4 +13,8 @@
   <img align="center" alt="Diego-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Diego-C" height="40" width"30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
   
+  
   ##
+
+ https://img.shields.io/badge/www.linkedin.com/in/diego-gomes-de-carvalho-744777231
+
